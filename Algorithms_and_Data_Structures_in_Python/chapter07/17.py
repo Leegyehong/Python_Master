@@ -44,3 +44,4 @@ if __name__ == "__main__":
     print("peek: {0}".format(stack.peek()))
     print("스택이 비었나요? {0}".format(stack.isEmpty()))
     print(stack)
+  
